@@ -1,2 +1,21 @@
 # Keyboard-File-Types
 This file attempts to list various kinds of keyboard layout files, and specifications.
+
+
+
+##List of file types
+
+.keylayout	# OSX XML file for keyboard definition.	See: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
+.bundle	# OSX set of files containing various parts of the keyboard information including Language Metadata.
+.kmn	# Raw Keyman file	See: http://help.keyman.com/developer/7.0/filetype_kmn.php
+.kmx	# Compiled Keyman file	See: http://help.keyman.com/developer/7.0/filetype_kmn.php
+.kxx	# Compiled Keyman file	See: http://help.keyman.com/developer/7.0/filetype_kmn.php
+.xkb	# Linux keyboard file	See: https://wiki.archlinux.org/index.php/X_KeyBoard_extension ; http://www.x.org/wiki/XKB/
+.klc	# Raw keyboardlayout file for MSKLC; Consider MSKLC	See: https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx
+.msi	# Compiled keyboard layout file for MSKLC; Consider reading this: http://www.languagegeek.com/keyboard_general/msklc_installation.html
+.ahk	# Consider AutoHotKey: http://www.autohotkey.com/docs/Scripts.htm
+.kcm	# Native Keyboard Layout Files for Android.	See: https://source.android.com/devices/input/key-character-map-files.html
+.kl	# A the keyboard layout format for kAndroid.	See: http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html
+.apk	#  A packaged version of anysoftkeyboard for Android.	See: https://github.com/AnySoftKeyboard/AnySoftKeyboard
+.json	# This is technically a data format. Several JavaScript keyboard applications have use some sort of data serialization. This is used by JACKeyboards.	See: https://github.com/JaredCrawford/KeyboardLayouts
+.xml	# CLDR data uses an XML Markup format.	See: http://cldr.unicode.org/index/charts/keyboards ; http://www.unicode.org/reports/tr35/tr35-keyboards.html#Contents

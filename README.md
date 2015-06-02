@@ -13,7 +13,7 @@ The included text file is included so that it can be refeenced by applications u
 File Extension | Brief Comment | Relevant URL
 ---|---|---
  .keylayout| OSX XML file for keyboard definition.|See: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
- .bundle| OSX set of files containing various parts of the keyboard information including Language Metadata.
+ .bundle| OSX set of files containing various parts of the keyboard information including Language Metadata.|See: https://developer.apple.com/library/mac/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13
  .kmn| Raw Keyman file|See: http://help.keyman.com/developer/7.0/filetype_kmn.php
  .kmx| Compiled Keyman file|See: http://help.keyman.com/developer/7.0/filetype_kmn.php
  .kxx| Compiled Keyman file|See: http://help.keyman.com/developer/7.0/filetype_kmn.php
@@ -30,7 +30,7 @@ File Extension | Brief Comment | Relevant URL
 ###List of file types
 
 * .keylayout	# OSX XML file for keyboard definition.	See: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
-* .bundle	# OSX set of files containing various parts of the keyboard information including Language Metadata.
+* .bundle	# OSX set of files containing various parts of the keyboard information including Language Metadata.	https://developer.apple.com/library/mac/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13
 * .kmn	# Raw Keyman file	See: http://help.keyman.com/developer/7.0/filetype_kmn.php
 * .kmx	# Compiled Keyman file	See: http://help.keyman.com/developer/7.0/filetype_kmn.php
 * .kxx	# Compiled Keyman file	See: http://help.keyman.com/developer/7.0/filetype_kmn.php

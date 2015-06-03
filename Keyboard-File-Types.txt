@@ -11,4 +11,5 @@
 .kl	# A the keyboard layout format for kAndroid.	See: http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html
 .apk	#  A packaged version of anysoftkeyboard for Android.	See: https://github.com/AnySoftKeyboard/AnySoftKeyboard
 .json	# This is technically a data format. Several JavaScript keyboard applications have use some sort of data serialization. This is used by JACKeyboards.	See: https://github.com/JaredCrawford/KeyboardLayouts
+.js	# This is a JavaScript keyboard application. The Keyboard jQuery UI project.	See: https://github.com/Mottie/Keyboard
 .xml	# CLDR data uses an XML Markup format.	See: http://cldr.unicode.org/index/charts/keyboards ; http://www.unicode.org/reports/tr35/tr35-keyboards.html#Contents
